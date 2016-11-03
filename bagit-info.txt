@@ -1,0 +1,7 @@
+Source-Organization: Tauranga City Library
+Organization-Address: 91 Willow St, Tauranga 3110, New Zealand
+Contact-Phone: +64.7.5777177
+Contact-Email: library@tauranga.govt.nz
+External-Description: Flight Lieutenant H.K. Griffiths with Mayor of Tauranga Mr D.S. Mitchell
+External-Identifier: 28358cac-93cd-42df-99ad-3d73d9f53416
+
